@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidSeminar - HW1</string>
+    <string name="country_list">Country List</string>
+    <string name="name">Name</string>
+    <string name="native_name">Native Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="country_border_list">Country Border List</string>
+    <string name="back">back</string>
+</resources>
